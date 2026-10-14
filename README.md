@@ -107,3 +107,12 @@ Star the repo if you find it useful!
 
 **Made for healthcare IT teams, utilization management professionals, clinical informatics engineers, and developers building prior authorization platforms.**  
 Let's make medical insurance prior authorization more open, transparent, and patient-friendly.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Medical-Insurance-Prior-Authorization-Engines&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Medical-Insurance-Prior-Authorization-Engines_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Medical-Insurance-Prior-Authorization-Engines_growth.svg">
+  </picture>
+</a>
