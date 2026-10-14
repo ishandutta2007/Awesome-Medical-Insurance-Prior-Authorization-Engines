@@ -1,6 +1,6 @@
 # Awesome-Medical-Insurance-Prior-Authorization-Engines
 
-# Top Microchip Thermal Layout Architecture Engines Ecosystem
+## Top Microchip Thermal Layout Architecture Engines Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Thermal-Aware Floorplanning, Electro-Thermal Co-Simulation & Hot-Spot Prevention*  
